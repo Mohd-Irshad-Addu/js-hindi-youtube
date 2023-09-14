@@ -12,7 +12,7 @@ console.log("")//for blank space
 const mynum = 1000000
 console.log(mynum.toLocaleString())
             //or
-console.log(mynum.)
+console.log(mynum.toLocalString(en-In)) //en-In will give us value in Indian standard.
 
 
 

@@ -9,9 +9,8 @@ const max = 20
 
 console.log(Math.floor(Math.random()*( max - min + 1 )) + min ) 
 /*here we are generating random values between 10 and 20.
-    so to get values between 10 and 20 we declared two variables.
-        and to avoid 0 as our answer we are adding 1.
-            and to get number greater than 10 we are adding min.
-
+    -> so to get values between 10 and 20 we declared two variables.
+    -> and to avoid 0 as our answer we are adding 1.
+    -> and to get number greater than 10 we are adding min.
 */
 
