@@ -1,7 +1,7 @@
     //constructor method to create object
     // Object.create
 
-    //object literals
+    //example of object literals
 
 const mysym = Symbol("mykey1")
 const jUser = {
